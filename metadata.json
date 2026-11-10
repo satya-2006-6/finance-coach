@@ -1,0 +1,6 @@
+{
+  "name": "Nivesh AI — Actionable Personal Finance Coach",
+  "description": "AI-powered personal finance coach that uncovers spending leaks, analyzes statements, and prescribes concrete weekly financial actions to build wealth.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
